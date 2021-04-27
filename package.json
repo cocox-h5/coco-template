@@ -1,6 +1,6 @@
 {
   "name": "coco-template",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -10,6 +10,7 @@
     "release": "coco release"
   },
   "dependencies": {
+    "coco-h5-cli": "^1.0.0",
     "core-js": "^3.6.5",
     "lodash.camelcase": "^4.3.0",
     "lodash.upperfirst": "^4.3.1",
@@ -49,5 +50,5 @@
     "not dead"
   ],
   "readme": "ERROR: No README data found!",
-  "_id": "coco-template@0.1.4"
+  "_id": "coco-template@0.1.5"
 }
